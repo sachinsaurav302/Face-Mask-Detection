@@ -1,0 +1,2 @@
+Face Mask Detection Project Description
+Face Mask Detection is a deep learning project that uses computer vision to identify whether a person is wearing a mask or not in real-time. Built using Python, OpenCV, TensorFlow/Keras, and a pre-trained CNN model, the system processes video or image input and classifies faces as "Mask" or "No Mask". This project is useful for public safety monitoring in places like malls, airports, or offices.
